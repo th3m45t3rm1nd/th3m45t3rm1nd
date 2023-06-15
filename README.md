@@ -1,4 +1,5 @@
 # Hi!
+Learning to take control over computers before they take control over me...
 
 The TECH I use:
 - ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?logo=linux&logoColor=black&style=for-the-badge)
