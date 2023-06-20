@@ -10,7 +10,8 @@ The TECH I use:
 My way-to-go text editor:
 - ![NEOVIM](https://img.shields.io/badge/-NEOVIM-57A143?logo=neovim&logoColor=black&style=for-the-badge)
 
-
+Currently Learning(just for fun!!!):
+- ![OCAML](https://img.shields.io/badge/-OCAML-EC6813?logo=ocaml&logoColor=black&style=for-the-badge)
 <!---
 th3m45t3rm1nd/th3m45t3rm1nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
