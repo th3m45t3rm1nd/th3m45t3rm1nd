@@ -1,7 +1,6 @@
-# Hi!
-Learning to take control over computers before they take control over me...
+# Hi there!
 
-The TECH I use:
+Here is the TECH I use:
 - ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 - ![REACTJS](https://img.shields.io/badge/-REACTJS-1A1D23?logo=react&logoColor=149ECA&style=for-the-badge)
 - ![JS](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
