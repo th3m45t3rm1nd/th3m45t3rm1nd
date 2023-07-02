@@ -10,7 +10,6 @@ My way-to-go text editor:
 - ![NEOVIM](https://img.shields.io/badge/-NEOVIM-57A143?logo=neovim&logoColor=black&style=for-the-badge)
 
 Currently Learning(just for fun!!!):
-- ![OCAML](https://img.shields.io/badge/-OCAML-EC6813?logo=ocaml&logoColor=black&style=for-the-badge)
 - ![RUST](https://img.shields.io/badge/-RUST-000000?logo=rust&logoColor=white&style=for-the-badge)
 <!---
 th3m45t3rm1nd/th3m45t3rm1nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
