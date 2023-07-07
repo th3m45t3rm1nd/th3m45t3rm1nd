@@ -2,7 +2,7 @@
 
 Here is the TECH I use:
 - ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-- ![REACTJS](https://img.shields.io/badge/-REACTJS-1A1D23?logo=react&logoColor=149ECA&style=for-the-badge)
+- ![LINUX](https://img.shields.io/badge/-SVELTE-FF3E00?logo=svelte&logoColor=black&style=for-the-badge)
 - ![JS](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 - ![BASH](https://img.shields.io/badge/-SHELL%20SCRIPT-4EAA25?logo=gnubash&logoColor=black&style=for-the-badge)
 
