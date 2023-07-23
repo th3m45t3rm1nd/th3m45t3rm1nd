@@ -3,6 +3,7 @@
 Here is the TECH I use:
 - ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 - ![JS](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+- ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=white&style=for-the-badge)
 - ![BASH](https://img.shields.io/badge/-SHELL%20SCRIPT-4EAA25?logo=gnubash&logoColor=black&style=for-the-badge)
 
 My way-to-go text editor:
