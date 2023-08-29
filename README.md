@@ -11,7 +11,6 @@ My way-to-go text editor:
 
 Currently Learning(just for fun!!!):
 - ![RUST](https://img.shields.io/badge/-RUST-000000?logo=rust&logoColor=white&style=for-the-badge)
-- ![SVELTE](https://img.shields.io/badge/-SVELTE-FF3E00?logo=svelte&logoColor=black&style=for-the-badge)
 
 <!---
 th3m45t3rm1nd/th3m45t3rm1nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
